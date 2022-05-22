@@ -35,10 +35,15 @@ Una paleta de colores cálidos y llamativos típicos de clima mediterráneo junt
 
 Código de los colores en hexadecimal:
 ● Bright Green: #5BFF14
+
 ● Cyan / Aqua: #00FFFF
+
 ● Chartreuse Yellow: #E7FC00
+
 ● Orange Peel: #FA9300
+
 ● Black: #000000
+
 ● (Fondo) Dove Gray: #646464
 
 # c) Iconografía
