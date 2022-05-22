@@ -43,11 +43,13 @@ Código de los colores en hexadecimal:
 
 # c) Iconografía
 Hemos escogido los iconos de Ionicons para la aplicación, puesta que son muy elegantes, claros, y por tanto se identifica lo que representan de una forma clara y sencilla.
+
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/iconoCerveza.png) ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/iconoMenu.png)
 
 # d) Tipografía
 Se han definido dos tipos de tipografías: Source Sans Pro y la Lobster
 Se usará Lobster para los títulos ya que es un tipo de letra más llamativa y no es la típica fuente estándar
+
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/lobster.png)
 
 Se usura Source Sans Pro para el resto de texto ya que es un tipo de letra más sofisticada, es decir para gustos más complejos y desarrollados, elegante y comprensible
