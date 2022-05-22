@@ -18,8 +18,10 @@ En este apartado se llevará a cabo la definición del estilo visual de las part
 # a) Logotipo
 Durante la realización de la práctica diseñamos varias versiones del logotipo. En un principio hicimos una idea de diseño algo alocada:
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo1.png)
+
 Llegamos a la conclusión de que no era un icono muy serio ni elegante. Por esto decidimos diseñar algo más sencillo manteniendo un poco la paleta original de Lemon Rock (en negro y amarillo), terminando finalmente con el siguiente resultado:
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo2.png)
+
 Este es un icono con clase e idóneo para las esquinas superiores de la página, con fin de que compenetre el fondo con el probable color del menu superior gris oscuro o del mismo negro.
 No obstante también habría que añadir el nuevo nombre de nuestra empresa. Algo bastante original, es el proceso que se ha realizado para el efecto final:
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo3.png)
@@ -28,6 +30,7 @@ No obstante también habría que añadir el nuevo nombre de nuestra empresa. Alg
 # b) Paleta de colores
 A partir de las imágenes del MoodBoard, elegimos la paleta de colores de Lemon F4k1ng Rock.
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/paletaColores.png)
+
 Una paleta de colores cálidos y llamativos típicos de clima mediterráneo junto con colores fríos y resaltantes que difieran y sobresalgan sobre los colores cálidos.
 
 Código de los colores en hexadecimal:
@@ -46,6 +49,7 @@ Hemos escogido los iconos de Ionicons para la aplicación, puesta que son muy el
 Se han definido dos tipos de tipografías: Source Sans Pro y la Lobster
 Se usará Lobster para los títulos ya que es un tipo de letra más llamativa y no es la típica fuente estándar
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/lobster.png)
+
 Se usura Source Sans Pro para el resto de texto ya que es un tipo de letra más sofisticada, es decir para gustos más complejos y desarrollados, elegante y comprensible
 
 # e) Estilo del Lenguaje
