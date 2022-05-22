@@ -61,6 +61,7 @@ Lemon F4k1ng Rock tiene como misión principal garantizar un servicio de calidad
 
 ## Mockup: LAYOUT HI-FI
 Finalmente para mostrar más gráficamente un ejemplo de uso del resultado, hemos optado por mostrar un gif bien guiado (termina en la misma escena donde empieza con el fin de que, si se empieza a ver por la mitad, no importe). Destacar que para cada escena del gif se ha utilizado la herramienta ProtoPie.
+
 ![alt gif](https://github.com/toniiFDEZ/DIU/blob/master/P3/ProtoPie.gif)
 
 ## Documentación: Publicación del Case Study
