@@ -15,7 +15,7 @@ Para promocionar la aplicación, se ha realizado un boceto sobre una página web
 ## Guidelines
 En este apartado se llevará a cabo la definición del estilo visual de las partes y componentes de la página.
 
-# a) Logotipo
+### a) Logotipo
 Durante la realización de la práctica diseñamos varias versiones del logotipo. En un principio hicimos una idea de diseño algo alocada:
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo1.png)
 
@@ -27,7 +27,7 @@ No obstante también habría que añadir el nuevo nombre de nuestra empresa. Alg
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo3.png)
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/logo4.png)
 
-# b) Paleta de colores
+### b) Paleta de colores
 A partir de las imágenes del MoodBoard, elegimos la paleta de colores de Lemon F4k1ng Rock.
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/paletaColores.png)
 
@@ -46,12 +46,12 @@ Código de los colores en hexadecimal:
 
 ● (Fondo) Dove Gray: #646464
 
-# c) Iconografía
+### c) Iconografía
 Hemos escogido los iconos de Ionicons para la aplicación, puesta que son muy elegantes, claros, y por tanto se identifica lo que representan de una forma clara y sencilla.
 
 ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/iconoCerveza.png) ![alt png](https://github.com/toniiFDEZ/DIU/blob/master/P3/imgs/iconoMenu.png)
 
-# d) Tipografía
+### d) Tipografía
 Se han definido dos tipos de tipografías: Source Sans Pro y la Lobster
 Se usará Lobster para los títulos ya que es un tipo de letra más llamativa y no es la típica fuente estándar
 
@@ -59,7 +59,7 @@ Se usará Lobster para los títulos ya que es un tipo de letra más llamativa y 
 
 Se usura Source Sans Pro para el resto de texto ya que es un tipo de letra más sofisticada, es decir para gustos más complejos y desarrollados, elegante y comprensible
 
-# e) Estilo del Lenguaje
+### e) Estilo del Lenguaje
 El lenguaje empleado en la app web (incluidos los layout Hi-Fi y el landing page) es tal que transmita familiaridad, que se lea a simple viste mediante colores
 diferenciados entre fondo y texto, que evite sentencias tediosas y que, sobre, todo, llame la atención del interesado.
 Lemon F4k1ng Rock tiene como misión principal garantizar un servicio de calidad para todos los públicos para así poder llegar a más gente, darse a conocer y, evidentemente, escalar el capital de la empresa.
